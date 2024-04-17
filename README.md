@@ -5,7 +5,7 @@
 - set in real world projects ,improve my skills, and
 - finally I want to build a Real world project on my own 
 - 📫 email : rakeshchr17@gmail.com, 7569140843
-- 😄 Goal , I have plsn of making a project related to farmers,
+- 😄 Goal , I have plan of making a project related to farmers,
 - I wish I will do that in future
 - ⚡ Fun fact: Senior Developer😂
 <!---
